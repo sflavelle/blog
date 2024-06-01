@@ -1,0 +1,9 @@
+baseURL = 'https://neurario.com/'
+theme = 'hugo-classic'
+languageCode = 'en-au'
+title = 'Neurario Dot Com'
+timeZone = 'Australia/Melbourne'
+
+enableEmoji = true
+enableGitInfo = true
+

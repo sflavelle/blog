@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Neurario Dot Com</title>
+    <link>http://neurario.com:1313/posts/</link>
+    <description>Recent content in Posts on Neurario Dot Com</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 01 Jun 2024 08:06:09 +1000</lastBuildDate>
+    <atom:link href="http://neurario.com:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turns out, you kinda do need a blog</title>
+      <link>http://neurario.com:1313/posts/2024-06-01-hugoblog/</link>
+      <pubDate>Sat, 01 Jun 2024 08:06:09 +1000</pubDate>
+      <guid>http://neurario.com:1313/posts/2024-06-01-hugoblog/</guid>
+      <description>I read a post a few weeks back espousing the need for a personal blog. If I find that page again, I&amp;rsquo;ll have it linked here - but the gist of the author&amp;rsquo;s reasons were this:&#xA;It&amp;rsquo;s good for organising thoughts. It makes you a better writer. I am (almost infamously I&amp;rsquo;m sure) awful at maintaining a blog. The issues that I&amp;rsquo;ve found with keeping one up to date is that, most of the time, there&amp;rsquo;s not actually that much going on in my life that I feel is worth making a post about.</description>
+    </item>
+  </channel>
+</rss>
